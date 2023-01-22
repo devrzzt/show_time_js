@@ -1,5 +1,5 @@
-let hours = 23
-let minutes = 59
+let hours = 0
+let minutes = 0
 let seconds = 0
 
 let timerIdentifier
